@@ -160,7 +160,7 @@ Traditional FAQs suffer from:
 ## 6. Incentive & Reward System
 
 ### 6.1 Gamification
-- [ ] Points & reputation (see §4.6)
+- [ ] Points & reputation (see §4.7)
 - [ ] Badges & achievements
 - [ ] Leaderboards
 - [ ] Streaks (daily contribution streaks)
